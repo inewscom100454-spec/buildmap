@@ -36,7 +36,7 @@ function loadUsers() {
         id: 'usr_demo_ceo',
         name: '오드리 대표',
         brand: '오드리고깃집',
-        email: 'ceo@buildmap.kr',
+        email: 'ceo@marketingmap.kr',
         passwordHash: hashPassword('123456'),
         marketingOptIn: true,
         provider: 'email',
@@ -234,7 +234,7 @@ const server = http.createServer(async (req, res) => {
       const provider = (body.provider || 'social').trim();
       const name = (body.name || `${provider} 대표`).trim();
       const brand = (body.brand || '').trim();
-      const email = (body.email || `${provider.toLowerCase()}_${Date.now()}@social.buildmap.kr`).trim().toLowerCase();
+      const email = (body.email || `${provider.toLowerCase()}_${Date.now()}@social.marketingmap.kr`).trim().toLowerCase();
 
       const users = loadUsers();
       let user = users.find(u => u.email.toLowerCase() === email);
@@ -311,5 +311,5 @@ const server = http.createServer(async (req, res) => {
 });
 
 server.listen(PORT, () => {
-  console.log(`BuildMap Server running at http://localhost:${PORT}/`);
+  console.log(`MarketingMap Server running at http://localhost:${PORT}/`);
 });
