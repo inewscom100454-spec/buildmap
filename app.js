@@ -1361,7 +1361,7 @@ HTML 태그는 포함하지 말고 친절하고 전문성 있게 한국어로 �
               guide: `[복사해서 상단 Gemini 또는 Claude 로고 버튼을 눌러 붙여넣으세요]\n\n너는 '${cleanCategory}' 분야에서 신뢰받는 유튜브 채널 총괄 PD야.\n'${cleanRegion}'에서 '${cleanIdea}'을(를) 찾는 고관여 ${prof.customerTerm}들이 우리 '${cleanBrand}'을(를) 업계 최고의 전문가로 신뢰하도록 만드는 5분 분량의 유튜브 롱폼 영상 기획안과 대본을 작성해줘.\n\n[요청 사항]\n1) 클릭률(CTR) 10% 이상을 달성할 수 있는 유튜브 썸네일 문구(3단어 이내 강렬한 카피) 5개와 검색 최적화(SEO) 영상 제목 5개\n2) 오프닝(공감 및 문제 제기) → 본론 1(기존 방식의 한계와 체크 기준) → 본론 2('${cleanBrand}'의 '${coreStrength}' 기반 해결 프로세스) → 클로징(${prof.actionTerm} 안내)의 타임라인별 상세 대본\n3) 유튜브 영상 설명란에 넣을 타임스탬프, 핵심 요약글, 해시태그 10개`
             },
             {
-              name: "4. [빌드맵 실전 표준 대본 예시] 45초 유튜브 쇼츠 기본 프레임워크",
+              name: "4. [마케팅맵 실전 표준 대본 예시] 45초 유튜브 쇼츠 기본 프레임워크",
               guide: `🎬 [0~3초 후킹]\n• 화면: '${mainItem}'의 가장 핵심적인 디테일/진단/시연 클로즈업\n• 자막: "${shortRegion}에서 '${mainItem}' 알아보고 계신다면 딱 30초만 보세요!"\n• 나레이션: "${mainItem} 선택할 때 이것 모르면 시간과 비용 모두 손해 볼 수 있습니다."\n\n🎬 [4~35초 핵심 가치 전달]\n• 화면: ${coreStrength} 과정이 한눈에 보이는 비교 컷 전환\n• 나레이션: "많은 ${prof.customerTerm}들이 단순 가격만 보고 선택하셨다가 아쉬워하시는데요. '${cleanBrand}'에서는 '${cleanIdea}'을(를) 통해 ${coreStrength} 원칙을 철저히 지키고 있습니다."\n\n🎬 [36~45초 전환 유도(CTA)]\n• 화면: 공식 채널/플레이스 예약 화면 안내\n• 자막 & 나레이션: "더 자세한 정보와 ${prof.actionTerm} 혜택은 지금 고정 댓글 링크에서 바로 확인해 보세요!"`
             }
           ]
@@ -1383,7 +1383,7 @@ HTML 태그는 포함하지 말고 친절하고 전문성 있게 한국어로 �
               guide: `[복사해서 상단 ChatGPT 또는 Gemini 로고 버튼을 눌러 붙여넣으세요]\n\n'${cleanRegion}'에서 '${cleanIdea}'을(를) 알아보는 ${prof.customerTerm}이 네이버 검색과 AI 검색(챗GPT, 퍼플렉시티, 네이버 AI 브리핑) 어디에서 검색하든 우리 '${cleanBrand}'이(가) 가장 신뢰할 수 있는 해답으로 노출되도록 블로그 콘텐츠를 다각도로 변주하려고 해.\n\n아래 3가지 AEO(답변엔진 최적화) · GEO(생성형 AI 최적화) 특화 포맷으로 각각 블로그 제목 3개와 [도입부 + 핵심 두괄식 답변 단락 + Q&A 요약]을 작성해줘:\n① [AEO 백문백답 포맷]: "${shortRegion}에서 ${mainItem} 실패 없이 고르는 법은?" 질문에 대한 즉답 가이드형\n② [GEO 심층 비교·근거 포맷]: 일반 업체 방식 vs '${cleanBrand}'의 '${coreStrength}' 특화 프로세스 객관적 비교 분석형\n③ [실전 케이스 스터디 포맷]: ${prof.customerTerm}의 대표적인 고민 상황 → 진단 및 해결 과정 → 사후 관리 로드맵 제시형`
             },
             {
-              name: "4. [빌드맵 실전 표준 원고 예시] SEO 제목 · AEO 요약 박스 · GEO 문답 프레임워크",
+              name: "4. [마케팅맵 실전 표준 원고 예시] SEO 제목 · AEO 요약 박스 · GEO 문답 프레임워크",
               guide: `📌 [SEO + AEO 질문형 추천 제목 3선]\n① [${shortRegion} ${mainItem}] 실패 없는 선택 기준 3가지와 ${cleanBrand} 핵심 정리\n② "${shortRegion}에서 ${mainItem} 어디가 좋을까?" ${coreStrength} 원칙으로 비교해 봤습니다\n③ ${cleanRegion} '${cleanIdea}' 알아본다면 필독! 방문 전 꼭 확인해야 할 Q&A\n\n💡 [본문 상단 AEO · GEO 핵심 요약 박스 예시]\n┌──────────────────────────────────────────┐\n│ 🔍 바쁜 ${prof.customerTerm}을 위한 핵심 3줄 요약 (AI 브리핑 최적화) │\n│ 1. 핵심 기준: ${shortRegion}에서 ${mainItem} 선택 시 '${coreStrength}' 여부를 반드시 확인하세요. │\n│ 2. 맞춤 해법: ${cleanBrand}은(는) '${cleanIdea}' 기반의 체계적인 솔루션을 제공합니다. │\n│ 3. 이용 안내: 네이버 플레이스 및 공식 채널을 통해 빠른 [${prof.actionTerm}]이 가능합니다. │\n└──────────────────────────────────────────┘`
             }
           ]
@@ -1405,7 +1405,7 @@ HTML 태그는 포함하지 말고 친절하고 전문성 있게 한국어로 �
               guide: `[복사해서 상단 ChatGPT 또는 Claude 로고 버튼을 눌러 붙여넣으세요]\n\n스마트폰 하나로 매장/현장에서 바로 촬영할 수 있는 '${cleanBrand}'의 15초 인스타그램 릴스 대본 5편을 작성해줘.\n얼굴 노출이 부담스러운 대표님도 찍을 수 있는 [손 클로즈업 / 현장 디테일 / 텍스트 자막 중심] 연출안 3편과, 전문성을 보여주는 [대표/원장 직접 브리핑] 연출안 2편으로 나누어 초 단위 화면 구성, 추천 배경음악 분위기, 화면 자막, 캡션을 작성해줘.`
             },
             {
-              name: "4. [빌드맵 실전 표준 원고 예시] 인스타 카드뉴스 & 릴스 캡션 프레임워크",
+              name: "4. [마케팅맵 실전 표준 원고 예시] 인스타 카드뉴스 & 릴스 캡션 프레임워크",
               guide: `📸 [1장 표지 문구]: "${shortRegion}에서 '${mainItem}' 알아볼 때, 이 3가지만 기억하세요! (저장 필수 📌)"\n📝 [본문 캡션 예시]:\n"처음에는 다 비슷해 보이지만, 결과의 차이는 디테일에서 결정됩니다 ✨\n\n✔ Point 1. ${cleanIdea} 전문 시스템 여부\n✔ Point 2. ${coreStrength} 맞춤 진행\n✔ Point 3. 체계적인 사후 케어까지\n\n📍 ${cleanBrand} (${cleanRegion})\n지금 프로필 하단 링크에서 [${prof.actionTerm}] 및 전용 안내를 바로 확인해 보세요! 👇"`
             }
           ]
@@ -1427,7 +1427,7 @@ HTML 태그는 포함하지 말고 친절하고 전문성 있게 한국어로 �
               guide: `[복사해서 상단 ChatGPT 또는 뤼튼(Wrtn) 로고 버튼을 눌러 붙여넣으세요]\n\n우리 '${cleanBrand}'에 방문(이용)한 ${prof.customerTerm}이 네이버 플레이스에 남긴 후기에 달아줄 '정성 리뷰 답글 템플릿 5종'을 작성해줘.\n단순히 복사·붙여넣기한 기계적 답글이 아니라:\n① 첫 방문/초진 만족 후기용, ② '${mainItem}' 품질 극찬 후기용, ③ 친절도/꼼꼼한 설명 칭찬 후기용, ④ 재방문/단골 고객 감사 후기용, ⑤ 아쉬운 점이나 대기시간 피드백에 대한 품격 있는 응대용으로 나누어 작성해줘.\n각 답글에는 네이버 플레이스 SEO에 도움이 되도록 '${shortRegion}', '${mainItem}', '${cleanBrand}' 키워드를 자연스럽게 녹여줘.`
             },
             {
-              name: "4. [빌드맵 실전 표준 원고 예시] 스마트플레이스 상세 설명 & 리뷰 답글 베이스라인",
+              name: "4. [마케팅맵 실전 표준 원고 예시] 스마트플레이스 상세 설명 & 리뷰 답글 베이스라인",
               guide: `📍 [플레이스 상세 설명 표준안]\n"[${shortRegion} ${mainItem} 중점, ${cleanBrand}을 찾아주셔서 감사합니다]"\n✔ 주력 분야: ${cleanIdea}\n✔ 핵심 차별점: ${cleanTarget}\n✔ 위치 및 채널: ${cleanRegion}\n\n저희 ${cleanBrand}은(는) 찾아주시는 모든 ${prof.customerTerm}께 검증된 결과와 세심한 케어를 제공하기 위해 원칙을 지킵니다. 네이버 플레이스 [알림받기] 및 사전 예약/문의를 통해 더욱 편리하게 이용해 보세요!\n\n💬 [정성 리뷰 답글 표준안]\n"소중한 걸음으로 저희 ${cleanBrand}을(를) 믿고 찾아주신 데 이어 따뜻한 후기까지 남겨주셔서 진심으로 감사드립니다 😊 특히 '${mainItem}'과(와) '${coreStrength}' 부분에 만족하셨다니 큰 보람을 느낍니다. 앞으로도 ${shortRegion}에서 언제든 안심하고 찾으실 수 있도록 최선을 다하겠습니다!"`
             }
           ]
@@ -1449,7 +1449,7 @@ HTML 태그는 포함하지 말고 친절하고 전문성 있게 한국어로 �
               guide: `[복사해서 상단 Claude 또는 ChatGPT 로고 버튼을 눌러 붙여넣으세요]\n\n너는 억대 매출을 만드는 디렉트 리스폰스(Direct Response) 카피라이터야.\n'${cleanBrand}'의 주력인 '${cleanIdea}'을(를) 소개하는 상세페이지(또는 원내/매장 브리핑 안내서·랜딩페이지)의 5단계 설득 카피를 작성해줘.\n\n1단계 [Hero 후킹]: 3초 만에 ${prof.customerTerm}의 시선을 붙잡는 헤드라인과 서브 카피 3가지 안\n2단계 [Problem 공감]: 기존에 다른 곳을 이용하며 겪었던 실망과 불안 포인트 짚어주기\n3단계 [Solution 해법]: '${cleanBrand}'만의 '${coreStrength}' 프로세스와 핵심 특장점 3가지\n4단계 [Social Proof 신뢰]: 수치·근거·실제 만족 포인트 제시 (${prof.complianceNote})\n5단계 [Action 행동유도]: 지금 바로 '${prof.actionTerm}'을(를) 해야 하는 명분과 클로징 카피`
             },
             {
-              name: "4. [빌드맵 실전 표준 원고 예시] 당근 비즈프로필 소식 & 랜딩 핵심 카피",
+              name: "4. [마케팅맵 실전 표준 원고 예시] 당근 비즈프로필 소식 & 랜딩 핵심 카피",
               guide: `🥕 [당근 동네소식 표준안]\n"안녕하세요, ${shortRegion} 이웃님들! ${cleanRegion}에서 '${cleanBrand}'을(를) 운영하고 있습니다 😊\n저희는 '${coreStrength}' 원칙으로 이웃님들께 정말 제대로 된 '${cleanIdea}'을(를) 선보이기 위해 매일 정성을 다하고 있어요.\n궁금하신 점은 언제든 당근 채팅이나 네이버 플레이스로 편하게 문의해 주세요. 우리 동네 이웃님들께 늘 믿음으로 보답하겠습니다 🧡"\n\n🎯 [상세·랜딩페이지 헤드카피 표준안]\n"기준이 까다로운 ${prof.customerTerm}일수록 결국 '${cleanBrand}'에 정착하는 이유 — ${cleanIdea}의 새로운 기준을 경험하세요."`
             }
           ]
@@ -1548,7 +1548,7 @@ HTML 태그는 포함하지 말고 친절하고 전문성 있게 한국어로 �
           {"name": "1. [유튜브 핵심 전략] 생성형 AI 종류별 조합 워크플로우", "guide": "ChatGPT, Claude, Gemini, Perplexity, Vrew 조합 전략"},
           {"name": "2. [AI 마스터 프롬프트 #1] 유튜브 쇼츠 후킹 주제 & 대본 생성용", "guide": "복사해서 AI에 바로 넣는 프롬프트"},
           {"name": "3. [AI 마스터 프롬프트 #2] 유튜브 롱폼 대본 & 썸네일 생성용", "guide": "복사해서 AI에 바로 넣는 프롬프트"},
-          {"name": "4. [빌드맵 실전 표준 대본 예시]", "guide": "우리 비즈니스 맞춤 쇼츠 표준 대본"}
+          {"name": "4. [마케팅맵 실전 표준 대본 예시]", "guide": "우리 비즈니스 맞춤 쇼츠 표준 대본"}
         ]
       },
       {
@@ -1558,7 +1558,7 @@ HTML 태그는 포함하지 말고 친절하고 전문성 있게 한국어로 �
           {"name": "1. [블로그 핵심 전략] SEO + AEO(답변엔진) + GEO(생성형 AI 검색) 통합 워크플로우", "guide": "상세 전략"},
           {"name": "2. [AI 마스터 프롬프트 #1] SEO · AEO · GEO 동시 선점 전문가 칼럼 장문 작성용", "guide": "복사해서 Claude/뤼튼에 넣는 프롬프트"},
           {"name": "3. [AI 마스터 프롬프트 #2] AEO 질문-즉답형 & GEO 비교분석형 포스팅 변주용", "guide": "복사해서 ChatGPT/Gemini에 넣는 프롬프트"},
-          {"name": "4. [빌드맵 실전 표준 원고 예시]", "guide": "추천 제목 3선 및 AEO 요약박스 예시"}
+          {"name": "4. [마케팅맵 실전 표준 원고 예시]", "guide": "추천 제목 3선 및 AEO 요약박스 예시"}
         ]
       },
       {
@@ -1568,7 +1568,7 @@ HTML 태그는 포함하지 말고 친절하고 전문성 있게 한국어로 �
           {"name": "1. [인스타그램 핵심 전략] AI 콘텐츠 공식", "guide": "상세 전략"},
           {"name": "2. [AI 마스터 프롬프트 #1] 저장각 7장 카드뉴스 기획용", "guide": "복사해서 쓰는 프롬프트"},
           {"name": "3. [AI 마스터 프롬프트 #2] 15초 릴스 대본 생성용", "guide": "복사해서 쓰는 프롬프트"},
-          {"name": "4. [빌드맵 실전 표준 원고 예시]", "guide": "표준 캡션 및 해시태그"}
+          {"name": "4. [마케팅맵 실전 표준 원고 예시]", "guide": "표준 캡션 및 해시태그"}
         ]
       },
       {
@@ -1578,7 +1578,7 @@ HTML 태그는 포함하지 말고 친절하고 전문성 있게 한국어로 �
           {"name": "1. [스마트플레이스 핵심 전략] AI 최적화 워크플로우", "guide": "상세 전략"},
           {"name": "2. [AI 마스터 프롬프트 #1] 플레이스 상세설명 최적화용", "guide": "복사해서 쓰는 프롬프트"},
           {"name": "3. [AI 마스터 프롬프트 #2] AI 정성 리뷰 답글 생성용", "guide": "복사해서 쓰는 프롬프트"},
-          {"name": "4. [빌드맵 실전 표준 원고 예시]", "guide": "플레이스 소개글 및 답글 예시"}
+          {"name": "4. [마케팅맵 실전 표준 원고 예시]", "guide": "플레이스 소개글 및 답글 예시"}
         ]
       },
       {
@@ -1588,7 +1588,7 @@ HTML 태그는 포함하지 말고 친절하고 전문성 있게 한국어로 �
           {"name": "1. [당근·상세페이지 핵심 전략] AI 설득 워크플로우", "guide": "상세 전략"},
           {"name": "2. [AI 마스터 프롬프트 #1] 당근 동네소식 & 커뮤니티 원고용", "guide": "복사해서 쓰는 프롬프트"},
           {"name": "3. [AI 마스터 프롬프트 #2] 5단계 상세페이지 설득 카피용", "guide": "복사해서 쓰는 프롬프트"},
-          {"name": "4. [빌드맵 실전 표준 원고 예시]", "guide": "당근 소식 및 상세 헤드카피 예시"}
+          {"name": "4. [마케팅맵 실전 표준 원고 예시]", "guide": "당근 소식 및 상세 헤드카피 예시"}
         ]
       }
     ]
@@ -2333,7 +2333,7 @@ HTML 태그는 포함하지 말고 친절하고 전문성 있게 한국어로 �
           <div class="cover-target">지역/채널: ${regionVal} | 주력 상품: ${ideaVal}</div>
           <div style="margin-top: 12px; font-size: 11px; color: #475569;">강점·타깃: ${targetVal}<br>핵심 목표: ${revenueVal}</div>
           <div class="cover-meta">
-            Designed by Audrey AI Marketing Consultant / BuildMap Studio
+            Designed by Audrey AI Marketing Consultant / MarketingMap Studio
           </div>
         </div>
         
@@ -2355,7 +2355,7 @@ HTML 태그는 포함하지 말고 친절하고 전문성 있게 한국어로 �
             </div>
           </div>
           <div class="print-footer">
-            <span>BuildMap by Audrey</span>
+            <span>MarketingMap by Audrey</span>
             <span>MARKETING BLUEPRINT</span>
           </div>
         </div>
@@ -2370,7 +2370,7 @@ HTML 태그는 포함하지 말고 친절하고 전문성 있게 한국어로 �
             ${sitemapHtml}
           </div>
           <div class="print-footer">
-            <span>BuildMap by Audrey</span>
+            <span>MarketingMap by Audrey</span>
             <span>MARKETING BLUEPRINT</span>
           </div>
         </div>
@@ -2385,7 +2385,7 @@ HTML 태그는 포함하지 말고 친절하고 전문성 있게 한국어로 �
             ${dbHtml}
           </div>
           <div class="print-footer">
-            <span>BuildMap by Audrey</span>
+            <span>MarketingMap by Audrey</span>
             <span>MARKETING BLUEPRINT</span>
           </div>
         </div>
@@ -2455,12 +2455,12 @@ HTML 태그는 포함하지 말고 친절하고 전문성 있게 한국어로 �
       list = [];
     }
     if (!Array.isArray(list)) list = [];
-    if (!list.some(u => u.email.toLowerCase() === 'ceo@buildmap.kr')) {
+    if (!list.some(u => u.email.toLowerCase() === 'ceo@marketingmap.kr')) {
       list.unshift({
         id: 'usr_demo_ceo',
         name: '오드리 대표',
         brand: '오드리고깃집',
-        email: 'ceo@buildmap.kr',
+        email: 'ceo@marketingmap.kr',
         passwordHash: simpleHash('123456'),
         marketingOptIn: true,
         provider: 'email',
@@ -2513,7 +2513,7 @@ HTML 태그는 포함하지 말고 친절하고 전문성 있게 한국어로 �
     return {
       name,
       brand: localStorage.getItem('user_brand') || '',
-      email: localStorage.getItem('user_email') || 'ceo@buildmap.kr',
+      email: localStorage.getItem('user_email') || 'ceo@marketingmap.kr',
       provider: localStorage.getItem('user_provider') || 'email',
       createdAt: localStorage.getItem('user_created_at') || '2026-10-28'
     };
@@ -2721,7 +2721,7 @@ HTML 태그는 포함하지 말고 친절하고 전문성 있게 한국어로 �
     const termsOverlay = document.getElementById('terms-overlay');
     const titleEl = document.getElementById('terms-overlay-title');
     if (titleEl) {
-      titleEl.textContent = type === 'privacy' ? '개인정보처리방침 및 데이터 보호 안내' : 'BuildMap 서비스 이용약관 및 개인정보처리방침';
+      titleEl.textContent = type === 'privacy' ? '개인정보처리방침 및 데이터 보호 안내' : 'MarketingMap 서비스 이용약관 및 개인정보처리방침';
     }
     if (termsOverlay) {
       termsOverlay.classList.add('active');
@@ -3098,7 +3098,7 @@ HTML 태그는 포함하지 말고 친절하고 전문성 있게 한국어로 �
   async function completeSocialLogin(providerLabel, userName, userBrand = '', userEmail = '') {
     const cleanName = (userName || `${providerLabel} 대표`).replace(/님$/, '').trim();
     const cleanBrand = (userBrand || '').trim();
-    const cleanEmail = (userEmail || `${providerLabel.replace(/[^a-zA-Z]/g, '').toLowerCase()}_ceo@buildmap.kr`).trim().toLowerCase();
+    const cleanEmail = (userEmail || `${providerLabel.replace(/[^a-zA-Z]/g, '').toLowerCase()}_ceo@marketingmap.kr`).trim().toLowerCase();
 
     let socialUser = {
       id: 'usr_social_' + Date.now(),
@@ -3177,7 +3177,7 @@ HTML 태그는 포함하지 말고 친절하고 전문성 있게 한국어로 �
       <body>
         <div class="card">
           <span class="badge">${providerLabel} 공식 간편 연동</span>
-          <h3>3초 만에 BuildMap 시작하기</h3>
+          <h3>3초 만에 MarketingMap 시작하기</h3>
           <p>마케팅 리포트에 표시될 대표님 성함과 상호명(선택)을 확인해 주세요.</p>
           <form id="social-form">
             <div class="field">
@@ -3190,11 +3190,11 @@ HTML 태그는 포함하지 말고 친절하고 전문성 있게 한국어로 �
             </div>
             <div class="field">
               <label>연동 이메일 주소</label>
-              <input type="email" id="s-email" value="${providerLabel.replace(/[^a-zA-Z]/g, '').toLowerCase()}_ceo@buildmap.kr" required>
+              <input type="email" id="s-email" value="${providerLabel.replace(/[^a-zA-Z]/g, '').toLowerCase()}_ceo@marketingmap.kr" required>
             </div>
             <button type="submit" class="btn-submit">동의하고 즉시 시작하기</button>
           </form>
-          <div class="footer-note">BuildMap 보안 인증 세션으로 안전하게 보호됩니다.</div>
+          <div class="footer-note">MarketingMap 보안 인증 세션으로 안전하게 보호됩니다.</div>
         </div>
         <script>
           document.getElementById('social-form').addEventListener('submit', function(e) {
@@ -3284,9 +3284,9 @@ HTML 태그는 포함하지 말고 친절하고 전문성 있게 한국어로 �
 
   const faqResponses = {
     api_error: 'API 키가 없어도 걱정하지 마세요! 기본 설정인 <b>[로컬 마케팅 엔진]</b>으로 실행하시면 우리 비즈니스 상호·업종·상권에 맞춘 5대 마케팅 전략과 홍보 원고가 즉시 무료로 생성됩니다.',
-    pricing: '현재 BuildMap Marketing Studio에서는 모든 마케팅 전략 생성 및 홍보 원고 복사, PDF 출력 기능이 무료로 제공됩니다.',
+    pricing: '현재 MarketingMap Studio에서는 모든 마케팅 전략 생성 및 홍보 원고 복사, PDF 출력 기능이 무료로 제공됩니다.',
     howto: '좌측 입력창에 <b>①상호명, ②업종 및 주력상품, ③지역(상권), ④강점/타깃, ⑤마케팅 고민</b>을 입력하고 하단 오렌지색 버튼을 누르시면 우측에 플레이스 키워드, AI 검색 Q&A, 블로그·유튜브·릴스·당근 홍보 가이드, 브랜드 스토리가 즉시 완성됩니다!',
-    enterprise: '프랜차이즈 본사, 소상공인 협회, 마케팅 대행사 제휴 문의는 <b>support@buildmap.com</b>으로 연락 주시면 맞춤 안내해 드립니다.'
+    enterprise: '프랜차이즈 본사, 소상공인 협회, 마케팅 대행사 제휴 문의는 <b>support@marketingmap.kr</b>으로 연락 주시면 맞춤 안내해 드립니다.'
   };
 
   window.sendSupportFaq = function(key) {
